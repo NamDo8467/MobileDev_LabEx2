@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab-Ex-2</string>
+    <string name="second_activity_btn">Second Activity</string>
+    <string name="web_activity_btn">Open Web</string>
+    <string name="map_activity_btn">Open Map</string>
+    <string name="close_second_activity">Close and go back</string>
+</resources>
+
